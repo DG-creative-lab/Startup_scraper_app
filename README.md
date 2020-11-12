@@ -1,4 +1,4 @@
-# ![Alt text](image/Lead_funnel.jpg.) Startup Scraper App    
+# ![Alt text](.image/Lead_funnel.jpg.) Startup Scraper App    
 
 ## This is a temporary working description of the app built
 
